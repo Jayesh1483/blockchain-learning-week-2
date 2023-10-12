@@ -20,7 +20,7 @@ This repository contains assignments for Week 2 of the Blockchain Learning curri
 - Deploy the contract using the Remix Ethereum IDE.
    - File: `exercise3.js`
 
-**Exercise 10: Token Contract**
+**Exercise 11: Token Contract**
 - Write a basic ERC-20 token smart contract with functions to mint, burn, transfer, and check balance.
 - Understand the importance of safety checks and validations in the contract.
 - Deploy the contract using hardhat.
