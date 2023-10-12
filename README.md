@@ -29,4 +29,7 @@ This repository contains assignments for Week 2 of the Blockchain Learning curri
 **Exercise 12: Reflection**
 Write a brief summary (~300 words) of the potential applications of smart contracts you envision in industries like finance, healthcare, or real estate.
 
+## Test the Code:
+To tests the code, you can run it in the Visual Studio Code debugger terminal and Remix IDE. Exercise 11 would require, hardhat Open Zepplin libraries and node.js extensions to be installed for Visual Studio Debugger. You can take reference from this video to install the extensions: https://www.youtube.com/watch?v=9KGvY9-g1_w
+
 
